@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/res/merged/debug/layout_activity_connected.xml.flat",
+        "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/layout/activity_connected.xml"
+    },
+    {
+        "merged": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

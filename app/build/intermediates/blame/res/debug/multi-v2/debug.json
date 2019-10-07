@@ -1,0 +1,127 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,9,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,4,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,386,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,43,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,425,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,274,325,378,422,485",
+                        "endColumns": "52,51,50,52,43,62,57",
+                        "endOffsets": "217,269,320,373,417,480,538"
+                    }
+                },
+                {
+                    "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "11,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "543,626",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "621,693"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "305",
+                        "endColumns": "57",
+                        "endOffsets": "358"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

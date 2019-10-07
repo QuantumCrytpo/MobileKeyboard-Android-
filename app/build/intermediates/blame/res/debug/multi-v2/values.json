@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,9,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,4,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,386,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,43,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,425,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,274,325,378,422,485",
+                        "endColumns": "52,51,50,52,43,62,57",
+                        "endOffsets": "217,269,320,373,417,480,538"
+                    }
+                },
+                {
+                    "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/home/amz/AndroidStudioProjects/MobileKeyboard(Android)/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "11,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "543,626",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "621,693"
+                    }
+                }
+            ]
+        }
+    ]
+}
